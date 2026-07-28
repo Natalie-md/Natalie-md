@@ -1,8 +1,8 @@
 # Hi, I'm Natalie! 👋
 
-🎓 Cybersecurity Student pursuing an A.A.S. in Cybersecurity with a passion for networking, Linux, and defensive security.
+🎓 Cybersecurity Student pursuing an A.A.S. in Cybersecurity.
 
-I'm currently building hands-on projects to strengthen my skills in network security, intrusion detection, and system administration while preparing for future cybersecurity internships.
+I'm passionate about networking, Linux, and defensive security. I enjoy building hands-on cybersecurity projects to strengthen my technical skills and gain practical experience with real-world tools and technologies.
 
 ---
 
@@ -45,11 +45,11 @@ Configured VLANs, assigned switch ports, and verified network segmentation in Ci
 
 ## 📚 Currently Learning
 
-- Python for Cybersecurity
 - Linux Administration
-- Wireshark
-- Network Defense
-- Security+
+- Python for Cybersecurity
+- Network Security
+- Cisco Networking
+- Intrusion Detection Systems (IDS)
 
 ---
 
